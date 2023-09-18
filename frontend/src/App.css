@@ -1,0 +1,57 @@
+.App {
+  font-family: sans-serif;
+  text-align: center;
+  background-color: #add8e6;
+}
+
+.bg-random {
+  padding: 20px;
+}
+
+.form-label {
+  display: block;
+  margin-bottom: 10px;
+}
+
+.form-control {
+  display: block;
+  width: 100%;
+  padding: 10px;
+  margin-bottom: 20px;
+}
+
+.inp {
+  max-width: 500px;
+  margin: auto;
+}
+
+.btn-primary {
+  background-color: #007bff;
+  color: white;
+  padding: 10px 20px;
+  border: none;
+  border-radius: 5px;
+  margin-top: 10px;
+}
+
+ul {
+  list-style-type: none;
+  margin-bottom: 20px !important;
+}
+li {
+  display: block;
+  padding: 10px;
+  margin-bottom: 20px !important;
+  background-color: white;
+  max-width: 500px;
+  margin: auto;
+  border-radius: 5px;
+}
+
+.button-right {
+  float: right;
+  background-color: red;
+  color: white;
+  border-radius: 7px;
+  border: 0px solid red;
+}
